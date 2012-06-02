@@ -8,8 +8,8 @@ namespace ThermalDotNet
 {
 	/// <summary>
 	/// ESP/POS NETMF serial thermal printer library 
-    /// by OpenHacks http://www.openhacks.com
-    /// git://github.com/jpmanson/ThermalPrinterNetMFLib.git
+    	/// Adapted from https://github.com/yukimizake/ThermalDotNet by OpenHacks http://www.openhacks.com
+    	/// git://github.com/jpmanson/ThermalPrinterNetMFLib.git
 	/// </summary>  
 	public class ThermalPrinter
 	{	 
