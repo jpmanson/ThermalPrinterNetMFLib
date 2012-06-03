@@ -1,9 +1,9 @@
-ThermalPrinterNetMFLib by OpenHacks http://www.openhacks.com
-============================================================
+ThermalPrinterNetMFLib 
+======================
 
 ESC/POS Thermal Printer Library for .Net Micro Framework 
 
-Adapted from Yukimizake .NET Framework version (https://github.com/yukimizake/ThermalDotNet)
+Adapted from Yukimizake .NET Framework version (https://github.com/yukimizake/ThermalDotNet) by OpenHacks http://www.openhacks.com
 
 Created for SecretLabs Netduino and GHIElectronics Fez platforms based on NET MF
 
